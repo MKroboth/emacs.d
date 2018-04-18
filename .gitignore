@@ -1,0 +1,5 @@
+*~
+*.elc
+/tramp
+auto-save-list/
+\#*
